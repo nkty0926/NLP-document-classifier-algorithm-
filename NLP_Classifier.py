@@ -5,7 +5,6 @@ Course:          CS540, Fall 2020
 
 Author:          Tae Yong Namkoong
 Email:           taeyong.namkoong@wisc.edu
-References:      TA's Office Hours
 '''
 
 import math
