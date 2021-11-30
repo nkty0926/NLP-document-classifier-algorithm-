@@ -9,6 +9,6 @@
 5. Implement Laplace Smoothing to estimate unknown Ngrams
 6. Train processed test data using training set vocabulary 
 
+![](Images/test2.png)
 ![](Images/results1.png)
 ![](Images/test1.png)
-![](Images/test2.png)
